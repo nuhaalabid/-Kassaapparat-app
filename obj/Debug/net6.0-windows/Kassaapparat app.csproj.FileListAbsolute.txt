@@ -1,0 +1,22 @@
+C:\Users\Noha Q\source\repos\Kassaapparat app\bin\Debug\net6.0-windows\Kassaapparat app.exe
+C:\Users\Noha Q\source\repos\Kassaapparat app\bin\Debug\net6.0-windows\Kassaapparat app.deps.json
+C:\Users\Noha Q\source\repos\Kassaapparat app\bin\Debug\net6.0-windows\Kassaapparat app.runtimeconfig.json
+C:\Users\Noha Q\source\repos\Kassaapparat app\bin\Debug\net6.0-windows\Kassaapparat app.dll
+C:\Users\Noha Q\source\repos\Kassaapparat app\bin\Debug\net6.0-windows\Kassaapparat app.pdb
+C:\Users\Noha Q\source\repos\Kassaapparat app\obj\Debug\net6.0-windows\Kassaapparat_app.Form1.resources
+C:\Users\Noha Q\source\repos\Kassaapparat app\obj\Debug\net6.0-windows\Kassaapparat app.csproj.GenerateResource.cache
+C:\Users\Noha Q\source\repos\Kassaapparat app\obj\Debug\net6.0-windows\Kassaapparat app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noha Q\source\repos\Kassaapparat app\obj\Debug\net6.0-windows\Kassaapparat app.AssemblyInfoInputs.cache
+C:\Users\Noha Q\source\repos\Kassaapparat app\obj\Debug\net6.0-windows\Kassaapparat app.AssemblyInfo.cs
+C:\Users\Noha Q\source\repos\Kassaapparat app\obj\Debug\net6.0-windows\Kassaapparat app.csproj.CoreCompileInputs.cache
+C:\Users\Noha Q\source\repos\Kassaapparat app\obj\Debug\net6.0-windows\Kassaapparat app.dll
+C:\Users\Noha Q\source\repos\Kassaapparat app\obj\Debug\net6.0-windows\refint\Kassaapparat app.dll
+C:\Users\Noha Q\source\repos\Kassaapparat app\obj\Debug\net6.0-windows\Kassaapparat app.pdb
+C:\Users\Noha Q\source\repos\Kassaapparat app\obj\Debug\net6.0-windows\Kassaapparat app.genruntimeconfig.cache
+C:\Users\Noha Q\source\repos\Kassaapparat app\obj\Debug\net6.0-windows\ref\Kassaapparat app.dll
+C:\Users\Noha Q\source\repos\Kassaapparat app\obj\Debug\net6.0-windows\Kassaapparat_app.KassaRegister.resources
+C:\Users\Noha Q\source\repos\Kassaapparat app\obj\Debug\net6.0-windows\Kassaapparat_app.Form2.resources
+C:\Users\Noha Q\source\repos\Kassaapparat app\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Noha Q\source\repos\Kassaapparat app\bin\Debug\net6.0-windows\Stripe.net.dll
+C:\Users\Noha Q\source\repos\Kassaapparat app\obj\Debug\net6.0-windows\Kassaapparat app.csproj.AssemblyReference.cache
+C:\Users\Noha Q\source\repos\Kassaapparat app\obj\Debug\net6.0-windows\Kassaapparat app.csproj.CopyComplete
